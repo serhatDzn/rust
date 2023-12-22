@@ -23,4 +23,18 @@ fn main() {
     let mut n3:i8 = n1+n2;
     n3 += n2;
     println!("number 3 = {}",n3);
+
+    let s1:u8 = 33;
+    let s2:u8 = 11;
+    println!("{} ile {} nin toplamı {}'dir.",s1,s2,s1+s2);
+
+    let myage:u8 = 21;
+    println!("Benim yaşım {myage} dir.");
+
+
+    // Boolean
+
+    let is_rust_fun: bool = true;
+
+
 }
