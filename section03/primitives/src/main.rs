@@ -36,5 +36,14 @@ fn main() {
 
     let is_rust_fun: bool = true;
 
+    // Float
+    let x:f32 = 2.89889; // f32
+    let y = 5.14.421321321312312321 // f64
+
+    //chars
+    let c:char = 's'; //char
+    let c1 = 'd'; //char
+
+    
 
 }

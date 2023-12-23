@@ -18,9 +18,3 @@ like: age_of_empires
 ```
 rustup update
 ```
-
-### print!
-```
-rustc --emit llvm-ir hello_rust.rs
-rustc --emit obj hello_rust.rs
-```
